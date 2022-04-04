@@ -1,0 +1,11 @@
+/* Add project button hover */
+.custom-btn:hover {
+    background-color: #fff;
+    color: #000;
+}
+
+/* Add hover to submit project info button */
+.custom-submit-btn:hover {
+    background-color: #fff;
+    color: green;
+}
